@@ -13,7 +13,7 @@ Questo progetto fa parte del mio percorso di studio per la certificazione **AWS 
 L'applicazione gira su un'istanza EC2 configurata manualmente. Ho implementato un Security Group che permette il traffico HTTP (porta 80) e SSH (porta 22) per la gestione remota. Il codice è distribuito utilizzando Git direttamente sull'istanza.
 
 ## 📸 Anteprima
-![Screenshot del Progetto](Screenshot 2026-05-12 115814.png)
+![Screenshot del Progetto](app-preview.png)
 
 ---
 *Creato da Paulcloud2527 durante il corso di Stephane Maarek.*
